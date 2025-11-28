@@ -9,11 +9,12 @@ I work daily with **Python, SQL, Airflow, AWS, PySpark**, and **BI tools** like 
 ## 🚀 About Me
 
 - 📊 Data Engineer at one of the biggest banks in Brazil
-- 🔧 5+ years working with **data pipelines, analytics engineering, and BI**
-- 🌍 Open to **remote opportunities abroad**
-- 📈 Built dashboards that improved performance by **up to 90%** through model + query optimization
+- 🔧 5+ years working with data pipelines, analytics engineering, and BI
+- 🌍 Open to remote opportunities abroad
+- 📈 Built dashboards that improved performance by up to 90% through model + query optimization
+- ⚡ Optimized a heavy Redshift query, reducing execution time from 30 minutes to 7 minutes (~77% faster) through better filtering, join strategies, and distribution key tuning
 - 🤝 Collaborate with product teams to define metrics and improve data quality
-- 🌱 Currently learning **Russian**
+- 🌱 Currently learning Russian
 
 ---
 
